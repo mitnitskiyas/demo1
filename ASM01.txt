@@ -5,3 +5,5 @@ This is the text! for the git
 987654321 RISKY
 
 CONTINUE
+
+Продолжаем работу в команде
